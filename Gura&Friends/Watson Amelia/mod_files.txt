@@ -1,2 +1,4 @@
-
+add /Watson Amelia/mod.ini
+add /Watson Amelia/raw/character/sonic.pac
+add /Watson Amelia/raw/character/supersonic.pac
 add mod.ini
