@@ -1,8 +1,0 @@
-add /Gawr Gura/raw/character/kodamaA.pac
-add /Gawr Gura/raw/character/kodamaB.pac
-add /Gawr Gura/raw/character/kodamaC.pac
-add /Gawr Gura/raw/character/kodamacommon.pac
-add /Gawr Gura/raw/character/sonic.pac
-add /Gawr Gura/raw/character/supersonic.pac
-add /Gawr Gura/raw/general/resident_general/bgm.acb
-add /Gawr Gura/mod.ini
