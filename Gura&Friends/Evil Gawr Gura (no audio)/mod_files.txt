@@ -1,8 +1,1 @@
-add /Evil Gawr Gura (no audio)/mod.ini
-add /Evil Gawr Gura (no audio)/raw/character/kodamaA.pac
-add /Evil Gawr Gura (no audio)/raw/character/kodamaB.pac
-add /Evil Gawr Gura (no audio)/raw/character/kodamaC.pac
-add /Evil Gawr Gura (no audio)/raw/character/kodamacommon.pac
-add /Evil Gawr Gura (no audio)/raw/character/sonic.pac
-add /Evil Gawr Gura (no audio)/raw/character/supersonic.pac
 add mod.ini
