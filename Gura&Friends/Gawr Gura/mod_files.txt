@@ -1,1 +1,12 @@
+add /disk/Gawr Gura/changelog.md
+add /disk/Gawr Gura/mod.ini
+add /disk/Gawr Gura/mod_files.txt
+add /disk/Gawr Gura/mod_version.ini
+add /disk/Gawr Gura/raw/character/kodamaA.pac
+add /disk/Gawr Gura/raw/character/kodamaB.pac
+add /disk/Gawr Gura/raw/character/kodamaC.pac
+add /disk/Gawr Gura/raw/character/kodamacommon.pac
+add /disk/Gawr Gura/raw/character/sonic.pac
+add /disk/Gawr Gura/raw/character/supersonic.pac
+add /disk/Gawr Gura/raw/general/resident_general/bgm.acb
 add mod.ini
