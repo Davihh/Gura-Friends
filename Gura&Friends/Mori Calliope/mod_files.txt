@@ -1,1 +1,4 @@
+add /Mori Calliope/mod.ini
+add /Mori Calliope/raw/character/sonic.pac
+add /Mori Calliope/raw/character/supersonic.pac
 add mod.ini
