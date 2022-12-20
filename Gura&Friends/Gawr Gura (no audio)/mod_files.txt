@@ -1,7 +1,0 @@
-add /raw/character/kodamaA.pac
-add /raw/character/kodamaB.pac
-add /raw/character/kodamaC.pac
-add /raw/character/kodamacommon.pac
-add /raw/character/sonic.pac
-add /raw/character/supersonic.pac
-add mod.ini
