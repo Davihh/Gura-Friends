@@ -1,8 +1,2 @@
-add /Ninomae Ina/mod.ini
-add /Ninomae Ina/raw/character/kodamaA.pac
-add /Ninomae Ina/raw/character/kodamaB.pac
-add /Ninomae Ina/raw/character/kodamaC.pac
 add /Ninomae Ina/raw/character/kodamacommon.pac
-add /Ninomae Ina/raw/character/sonic.pac
-add /Ninomae Ina/raw/character/supersonic.pac
 add mod.ini
